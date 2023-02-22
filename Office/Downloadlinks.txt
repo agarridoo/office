@@ -119,4 +119,43 @@ https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/es
 Visio 2016 
 https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/es-ES/VisioProRetail.img
 
+$$$$$$$$$$$$$$$$
+$$$$$ 2013 $$$$$
+$$$$$$$$$$$$$$$$
 
+Pro 2013 (Word, Excel, PowerPoint, OneNote, Outlook, Access, Publisher): 
+https://officecdn.microsoft.com/db/39168D7E-077B-48E7-872C-B232C3E72675/media/es-es/ProfessionalRetail.img
+
+Hogar Empresas 2013 (Word, Excel, PowerPoint, OneNote, Outlook) 
+https://officecdn.microsoft.com/db/39168D7E-077B-48E7-872C-B232C3E72675/media/es-ES/HomeBusinessRetail.img
+
+Hogar Estudiantes 2013 (Word, Excel, PowerPoint, OneNote): 
+https://officecdn.microsoft.com/db/39168D7E-077B-48E7-872C-B232C3E72675/media/es-ES/HomeStudentRetail.img
+
+Word 2013  
+https://officecdn.microsoft.com/db/39168D7E-077B-48E7-872C-B232C3E72675/media/es-ES/WordRetail.img
+
+Excel 2013 
+https://officecdn.microsoft.com/db/39168D7E-077B-48E7-872C-B232C3E72675/media/es-ES/ExcelRetail.img
+
+PowerPoint 2013 
+https://officecdn.microsoft.com/db/39168D7E-077B-48E7-872C-B232C3E72675/media/es-ES/PowerPointRetail.img
+
+Outlook 2013 
+https://officecdn.microsoft.com/db/39168D7E-077B-48E7-872C-B232C3E72675/media/es-ES/OutlookRetail.img
+
+Access 2013 
+https://officecdn.microsoft.com/db/39168D7E-077B-48E7-872C-B232C3E72675/media/es-ES/AccessRetail.img
+
+Publisher 2013 
+https://officecdn.microsoft.com/db/39168D7E-077B-48E7-872C-B232C3E72675/media/es-ES/PublisherRetail.img
+
+Onenote 2013
+https://officecdn.microsoft.com/db/39168D7E-077B-48E7-872C-B232C3E72675/media/es-ES/OneNoteRetail.img
+
+Project 2013 
+https://officecdn.microsoft.com/db/39168D7E-077B-48E7-872C-B232C3E72675/media/es-ES/ProjectProRetail.img
+
+Visio 2013 
+https://officecdn.microsoft.com/db/39168D7E-077B-48E7-872C-B232C3E72675/media/es-ES/VisioProRetail.img
+.
