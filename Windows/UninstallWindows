@@ -1,0 +1,7 @@
+.
+Abrir CMD como Administrador
+---------------------------------------------
+Introducir comando
+cscript slmgr.vbs /upk&cscript slmgr.vbs /cpky 
+----------------------------------------------
+.
