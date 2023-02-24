@@ -43,5 +43,7 @@ Business: YFKBB-PQJJV-G996G-VWGXY-2V3X8
 Business N: HMBQG-8H2RH-C77VX-27R82-VMQBT
 Enterprise: VKK3X-68KWM-X2YGT-QR4M6-4BWMV
 Enterprise N: VTC42-BM838-43QHV-84HX6-XJXKV
-.
+
 https://learn.microsoft.com/en-us/windows-server/get-started/kms-client-activation-keys
+https://github.com/danilacasito/windowskeys/blob/latest/WindowsXP/keys.txt
+.
