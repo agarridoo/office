@@ -1,12 +1,14 @@
 .
-Introducir Comandos
+Open CMD as Administrator
+--------------------------------
+Enter commands
 cd /d %ProgramFiles%\Microsoft Office\Office16 
 cd /d %ProgramFiles(x86)%\Microsoft Office\Office16 
 --------------------------------------------------
-Introducir Comando
+Enter command
 cscript ospp.vbs /inslic:"..\root\Licenses16\ProjectProVL_KMS_Client-ppd.xrm-ms"&cscript ospp.vbs /inslic:"..\root\Licenses16\ProjectProVL_KMS_Client-ul-oob.xrm-ms"&cscript ospp.vbs /inslic:"..\root\Licenses16\ProjectProVL_KMS_Client-ul.xrm-ms"&cscript ospp.vbs /inslic:"..\root\Licenses16\client-issuance-bridge-office.xrm-ms"&cscript ospp.vbs /inslic:"..\root\Licenses16\client-issuance-root.xrm-ms"&cscript ospp.vbs /inslic:"..\root\Licenses16\client-issuance-root-bridge-test.xrm-ms"&cscript ospp.vbs /inslic:"..\root\Licenses16\client-issuance-stil.xrm-ms"&cscript ospp.vbs /inslic:"..\root\Licenses16\client-issuance-ul.xrm-ms"&cscript ospp.vbs /inslic:"..\root\Licenses16\client-issuance-ul-oob.xrm-ms"&cscript ospp.vbs /inslic:"..\root\Licenses16\pkeyconfig-office.xrm-ms" 
 --------------------------------------------------
-Introducir Comandos
+Enter commands
 cscript ospp.vbs /inpkey:YG9NW-3K39V-2T3HJ-93F3Q-G83KT 
 cscript ospp.vbs /sethst:e8.us.to 
 cscript ospp.vbs /setprt:1688 
