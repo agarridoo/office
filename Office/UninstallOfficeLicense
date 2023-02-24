@@ -1,0 +1,12 @@
+.
+Open CMD as Administrator
+----------------------------------------
+Enter commands (if the first one doesn't work use the second one)
+cscript "%ProgramFiles%\Microsoft Office\Office16\ospp.vbs" /dstatus
+cscript "%ProgramFiles(x86)%\Microsoft Office\Office16\ospp.vbs" /dstatus
+-----------------------------------------------------------------------------
+Several lines will appear with the last 5 letters of each license
+-----------------------------------------------------------------------------
+Enter commands
+cscript "%ProgramFiles%\Microsoft Office\Office16\ospp.vbs" /unpkey:HERE ARE THE LAST 5 LICENSE NUMBERS
+.
