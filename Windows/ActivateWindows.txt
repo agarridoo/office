@@ -4,7 +4,7 @@ Open CMD as Administrator
 Enter commands
 slmgr /ipk WINDOWSKEY
 -----------------------------
-Introducir Comando 
+Enter commands
 slmgr /skms kms8.msguides.com 
 slmgr /ato
 ------------------------------
