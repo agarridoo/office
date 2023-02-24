@@ -1,10 +1,13 @@
 .
-Abrir CMD como Administrador 
-Introducir Comando 
+Open CMD as Administrator
+-----------------------------
+Enter commands
 slmgr /ipk WINDOWSKEY
+-----------------------------
 Introducir Comando 
 slmgr /skms kms8.msguides.com 
-slmgr /ato 
+slmgr /ato
+------------------------------
 
 WINDOWS KEYS
 Home: TX9XD-98N7V-6WMQ6-BX7FG-H8Q99
